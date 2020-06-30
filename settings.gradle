@@ -1,0 +1,2 @@
+rootProject.name='RoomListPractice'
+include ':app'
